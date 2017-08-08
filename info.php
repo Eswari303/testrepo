@@ -2,7 +2,7 @@
 echo " welcome";
 $servername = "localhost";
 $username = "root";
-$password = "Pass@1234";
+$password = "Pass@123";
 $dbname = "eswaridb";
 
 // Create connection
